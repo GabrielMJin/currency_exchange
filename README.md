@@ -1,3 +1,7 @@
+#INSTRUÇÕES
+abra o projeto pelo visual studio, ou qualquer outra ide configurada com o flutter, e rode o projeto em algum emulador
+
+
 # currency_exchange
 
 A new Flutter project.
